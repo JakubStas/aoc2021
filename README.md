@@ -4,10 +4,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
-## Advent calendar
-
-https://adventofcode.com
-
 ## Leaderboard with friends
 
 https://adventofcode.com/2021/leaderboard/private/view/974726
